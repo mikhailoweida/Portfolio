@@ -1,0 +1,308 @@
+body
+{
+    background-color: black;
+} 
+
+.contact 
+{
+    position: fixed;
+    width: 100%;
+    position: absolute; 
+    color: blue;
+    float:left ;
+    position:relative;
+
+    
+    top: -311px;
+    left: -8px;
+    
+}
+.left div
+{
+   
+    float: left;
+   
+    left: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.link 
+{
+  
+  padding-right: 35px;
+    float: right;
+}
+.me
+{
+    
+    width: 100%;
+    height: 300px;
+  color: aliceblue;
+   position: absolute;
+   top: 100px;
+   left: 10px;
+   font-size: 18px;
+   color: rgb(28, 26, 26);
+}
+.me:hover
+{
+   transform: translate(250px);
+    
+}
+.mp
+{
+    border-radius: 300px;
+    position: absolute;
+    width: 500px;
+    height: 154px;
+    top: 120%;
+    left: 46%;
+    color: brown;
+    text-shadow: 1px 2px 3px burlywood;
+    font-size: 33px;
+}
+.mpp
+{
+    position: absolute;
+    width: 500px;
+    height: 154px;
+    top: 65%;
+    left: -12%;
+}
+.mppp
+{
+    position: absolute;
+    width: 500px;
+    height: 154px;
+    top: 87%;
+    left: -9%;
+    font-size:18px ;
+}
+.about
+{
+    background-color: #001a33;
+    width: 100%;
+    height:300px; 
+    border-radius: 10px;
+}
+.imgk{
+    position: absolute;
+    top: 337px;
+    left: 73px;
+    border-radius: 20px;
+}
+.ab{
+   position: absolute;
+   left: 337px;
+    top: 343px;
+    color: aliceblue;
+}
+.abb
+{
+    color:antiquewhite;
+    font-size: 27px;
+}
+.box 
+{
+    display: grid;
+    grid-template-columns: repeat(2,300px);
+    grid-template-rows: repeat(3,50px);
+    border: 1px;
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border: 1px;
+    border-color: red;
+    text-align: center;
+    
+}
+.exber
+{
+    border-radius: 15px;
+   margin-top: 3px;
+  
+    width: 100%;
+    height: 300px;
+    background-color: #0f0c29;
+}
+.eex
+{
+color: antiquewhite; 
+font-size: 27px;
+margin-left: 50px;
+}
+.ex
+{
+    color: #71124d;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+}
+.ex::before
+{
+    content: " ";
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 616px;
+    left: 38px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent transparent goldenrod;
+}
+.soft
+{
+    color:antiquewhite;
+    position: absolute;
+    left: 10px;
+    top: 31px;
+    font-size: 27px;
+}
+.soft::before
+{
+    content: " ";
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 585px;
+    left: 641px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent transparent goldenrod;
+}
+.so
+{
+    position: absolute;
+    left: 660px;
+    top: 584px;
+    width: 300px;
+}
+.soo
+{
+   position: absolute;
+   top: 627px;
+   left: 615px;
+    color: #71124d;
+    font-size: 19px;
+   
+    width: 300px;
+    display: grid;
+    grid-template-columns: repeat(2,350px);
+    grid-template-rows: repeat(4,100px);
+   
+
+   
+}
+.sooo
+{
+    padding: 10px;
+    margin: 10px;
+}
+.cor
+{
+    background-color: #011a23;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+   margin-top: 3px;
+    
+}
+.dc
+{
+    color:antiquewhite;
+    margin-left: 40px;
+    
+    font-size: 27px;
+   
+}
+.dcc
+{
+    color: #71124d;
+ margin-left: 50px;
+ margin-top: 10px;
+
+}
+.idcc
+{
+margin-top: -10px;
+}
+.gr{
+    margin-top: 50px;
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,374px);
+   
+}
+.co
+{
+    font-size: larger;
+    color:#71124d;
+}
+form
+{
+    width: 500px;
+    height: 500px;
+   background-image: url(ww.jpg);
+   background-repeat: no-repeat;
+    border-radius: 10PX;
+    background-size: cover;
+    position: relative;
+    top: 75px;
+    left: 468px;
+}
+form div{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.asa
+{
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    color: #71124d;
+    
+}
+.inf 
+{
+    box-shadow: 10px 10px 10px red;
+    position: absolute;
+    top: 102px;
+    left: 70px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 17px;
+color:rgb(18, 6, 91);
+border-radius: 10px;
+}
+.hee
+{
+   
+color: rgb(113, 4, 4);
+font-size: larger;
+position: relative;
+top: 38px;
+left: 127px;
+    text-shadow: 10px 10px 10px rgb(237, 255, 71);
+}
+.inn
+{
+    border-radius: 6px;
+    padding-left: 3px;
+    border-color: gold;
+    
+}
+.weee
+{
+    margin-left: 39px;
+    border-radius: 6px;
+    padding-left: 3px;
+    border-color: gold;
+}
+.wee
+{
+    border-radius: 6px;
+    padding-left: 3px;
+    border-color: gold;
+    margin-left: 69px;
+}
